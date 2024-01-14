@@ -1,0 +1,9 @@
+datasets
+matplotlib
+pandas
+pytorch
+numpy
+
+# Dependencies
+protobuf
+accelerate
